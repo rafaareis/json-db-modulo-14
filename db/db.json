@@ -4,5 +4,23 @@
             "id": 1,
             "slogan": "A loja do fã de música"
         }
+    ],
+
+    "navUl": [
+        {
+            "id": 1,
+            "href": "sobre",
+            "nome": "Sobre"
+        },
+                {
+            "id": 2,
+            "href": "produtos",
+            "nome": "Produtos"
+        },
+                {
+            "id": 3,
+            "href": "contato",
+            "nome": "Contato"
+        }
     ]
 }
