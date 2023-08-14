@@ -28,7 +28,7 @@
         {
             "id": 1,
             "artista": "Larkin Poe",
-            "profile": "",
+            "profile": "https://github.com/rafaareis/json-db-modulo-14/blob/main/profileArtist/larkin-poe.jpeg?raw=true",
             "nomeDoDisco": "Blood Harmony",
             "anoLancamento": 2022,
             "capaDoDisco": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/larkin_poe_blood_harmony.jpg?raw=true",
@@ -41,7 +41,7 @@
         {
             "id": 2,
             "artista": "Metallica",
-            "profile": "",
+            "profile": "https://github.com/rafaareis/json-db-modulo-14/blob/main/profileArtist/metallica.jpg?raw=true",
             "nomeDoDisco": "72 Seasons",
             "anoLancamento": 2023,
             "capaDoDisco": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/Metallica_72_seasons.jpg?raw=true",
@@ -54,7 +54,7 @@
         {
             "id": 3,
             "artista": "Spiritbox",
-            "profile": "",
+            "profile": "https://github.com/rafaareis/json-db-modulo-14/blob/main/profileArtist/spiritbox.jpg?raw=true",
             "nomeDoDisco": "Eternal Blue",
             "anoLancamento": 2021,
             "capaDoDisco": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/spiritbox-eternal-blue.jpeg?raw=true",
@@ -67,7 +67,7 @@
         {
             "id": 4,
             "artista": "Joe Bonamassa",
-            "profile": "",
+            "profile": "https://github.com/rafaareis/json-db-modulo-14/blob/main/profileArtist/joe_bonamassa.jpg?raw=true",
             "nomeDoDisco": "Time Clocks",
             "anoLancamento": 2021,
             "capaDoDisco": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/joe_bonamassa_time_clocks.jpg?raw=true",
@@ -80,7 +80,7 @@
         {
             "id": 5,
             "artista": "Five Finger Death Punch",
-            "profile": "",
+            "profile": "https://github.com/rafaareis/json-db-modulo-14/blob/main/profileArtist/five-finger-death-punch.jpeg?raw=true",
             "nomeDoDisco": "Afterlife",
             "anoLancamento": 2022,
             "capaDoDisco": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/ffdp_after.jpg?raw=true",
@@ -93,7 +93,7 @@
         {
             "id": 6,
             "artista": "The Warning",
-            "profile": "",
+            "profile": "https://github.com/rafaareis/json-db-modulo-14/blob/main/profileArtist/the-warning.jpeg?raw=true",
             "nomeDoDisco": "Error",
             "anoLancamento": 2022,
             "capaDoDisco": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/TheWarning_Error.jpeg?raw=true",
@@ -105,7 +105,7 @@
         {
             "id": 7,
             "artista": "Coldplay",
-            "profile": "",
+            "profile": "https://github.com/rafaareis/json-db-modulo-14/blob/main/profileArtist/coldplay.jpg?raw=true",
             "nomeDoDisco": "A Rush of Blood to the head",
             "anoLancamento": "2002",
             "capaDoDisco": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/coldplay_a_rush_of_blood.jpg?raw=true",
@@ -120,7 +120,7 @@
         {
             "id": 8,
             "artista": "Jinjer",
-            "profile": "",
+            "profile": "https://github.com/rafaareis/json-db-modulo-14/blob/main/profileArtist/jinjer.jpg?raw=true",
             "nomeDoDisco": "Macro",
             "anoLancamento": "2019",
             "capaDoDisco": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/jinjer-macro.jpeg?raw=true",
@@ -136,7 +136,7 @@
         {
             "id": 9,
             "artista": "Nirvana",
-            "profile": "",
+            "profile": "https://github.com/rafaareis/json-db-modulo-14/blob/main/profileArtist/nirvana.jpg?raw=true",
             "nomeDoDisco": "Nevermind",
             "anoLancamento": "1992",
             "capaDoDisco": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/nirvana_nevermind.jpg?raw=true",
@@ -152,7 +152,7 @@
         {
             "id": 10,
             "artista": "Red Hot Chili Peppers",
-            "profile": "",
+            "profile": "https://github.com/rafaareis/json-db-modulo-14/blob/main/profileArtist/red-hot-chili-peppers.jpg?raw=true",
             "nomeDoDisco": "By the Way",
             "anoLancamento": "2002",
             "capaDoDisco": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/Red_Hot_Chili_Peppers_-_By_the_Way.jpg?raw=true",
@@ -167,7 +167,7 @@
         {
             "id": 11,
             "artista": "Royal Blood",
-            "profile": "",
+            "profile": "https://github.com/rafaareis/json-db-modulo-14/blob/main/profileArtist/royal-blood.jpeg?raw=true",
             "nomeDoDisco": "Royal Blood",
             "anoLancamento": "2014",
             "capaDoDisco": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/royal_blood_2014.jpg?raw=true",
@@ -182,7 +182,7 @@
         {
             "id": 12,
             "artista": "System of a Down",
-            "profile": "",
+            "profile": "https://github.com/rafaareis/json-db-modulo-14/blob/main/profileArtist/system-of-a-down.jpeg?raw=true",
             "nomeDoDisco": "Toxicity",
             "anoLancamento": "2001",
             "capaDoDisco": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/system_of_a_down_toxicity.jpg?raw=true",
@@ -197,7 +197,7 @@
         {
             "id": 13,
             "artista": "Tame Impala",
-            "profile": "",
+            "profile": "https://github.com/rafaareis/json-db-modulo-14/blob/main/profileArtist/tame-impala.jpeg?raw=true",
             "nomeDoDisco": "Lonerism",
             "anoLancamento": "2012",
             "capaDoDisco": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/tame_impala_lonerism.jpg?raw=true",
@@ -212,7 +212,7 @@
         {
             "id": 14,
             "artista": "Blues Pills",
-            "profile": "",
+            "profile": "https://github.com/rafaareis/json-db-modulo-14/blob/main/profileArtist/blues-pills.jpg?raw=true",
             "nomeDoDisco": "Blues Pills",
             "anoLancamento": "2014",
             "capaDoDisco": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/Blues%20Pills%20(2014).jpeg?raw=true",
