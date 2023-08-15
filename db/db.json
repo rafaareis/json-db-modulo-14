@@ -34,7 +34,7 @@
             "capaDoDisco": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/larkin_poe_blood_harmony.jpg?raw=true",
             "price": "R$ 79.90",
             "lancamento": true,
-            "categoria": "Disco - Anos 2020",
+            "categoria": "ano2020",
             "promocao": false
         },
     
@@ -47,7 +47,7 @@
             "capaDoDisco": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/Metallica_72_seasons.jpg?raw=true",
             "price": "R$ 64.90",
             "lancamento": true,
-            "categoria": "Disco - Anos 2020",
+            "categoria": "ano2020",
             "promocao": false
         },
     
@@ -60,7 +60,7 @@
             "capaDoDisco": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/spiritbox-eternal-blue.jpeg?raw=true",
             "price": "R$ 133.37",
             "lancamento": true,
-            "categoria": "Disco - Anos 2020",
+            "categoria": "ano2020",
             "promocao": false
         },
     
@@ -73,7 +73,7 @@
             "capaDoDisco": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/joe_bonamassa_time_clocks.jpg?raw=true",
             "price": "R$ 62.12",
             "lancamento": true,
-            "categoria": "Disco - Anos 2020",
+            "categoria": "ano2020",
             "promocao": false
         },
     
@@ -86,7 +86,7 @@
             "capaDoDisco": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/ffdp_after.jpg?raw=true",
             "price": "R$ 78.90",
             "lancamento": true,
-            "categoria": "Disco - Anos 2020",
+            "categoria": "ano2020",
             "promocao": false
         },
     
@@ -99,7 +99,7 @@
             "capaDoDisco": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/TheWarning_Error.jpeg?raw=true",
             "price": "R$ 100.00",
             "lancamento": true,
-            "categoria": "Disco - Anos 2020",
+            "categoria": "ano2020",
             "promocao": false
         },
         {
@@ -113,7 +113,7 @@
             "originalPrice": "R$ 56.90",
             "price": "R$ 51.21",
             "lancamento": false,
-            "categoria": "Disco - Anos 2000",
+            "categoria": "ano2000",
             "promocao": true
         },
     
@@ -128,7 +128,7 @@
             "originalPrice": "R$ 45.00",
             "price": "R$ 40.50",
             "lancamento": false,
-            "categoria": "Disco - Anos 2010",
+            "categoria": "ano2010",
             "promocao": true
         },
     
@@ -144,7 +144,7 @@
             "originalPrice": "R$ 48.90",
             "price": "R$ 39.12",
             "lancamento": false,
-            "categoria": "Disco - Anos 1990",
+            "categoria": "ano1990",
             "promocao": true
         },
     
@@ -160,7 +160,7 @@
             "originalPrice": "R$ 48.90",
             "price": "R$ 39.12",
             "lancamento": false,
-            "categoria": "Disco - Anos 2000",
+            "categoria": "ano2000",
             "promocao": true
         },
     
@@ -175,7 +175,7 @@
             "originalPrice": "R$ 140.17",
             "price": "R$ 126.15",
             "lancamento": false,
-            "categoria": "Disco - Anos 2010",
+            "categoria": "ano2010",
             "promocao": true
         },
     
@@ -190,7 +190,7 @@
             "originalPrice": "R$ 60.90",
             "price": "R$ 54.81",
             "lancamento": false,
-            "categoria": "Disco - Anos 2000",
+            "categoria": "ano2000",
             "promocao": true
         },
     
@@ -205,7 +205,7 @@
             "originalPrice": "R$ 60.90",
             "price": "R$ 54.81",
             "lancamento": false,
-            "categoria": "Disco - Anos 2010",
+            "categoria": "ano2010",
             "promocao": true
         },
 
@@ -218,7 +218,7 @@
             "capaDoDisco": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/Blues%20Pills%20(2014).jpeg?raw=true",
             "price": "R$ 78,79",
             "lancamento": false,
-            "categoria": "Disco - Anos 2010",
+            "categoria": "ano2010",
             "promocao": false
         }
 
