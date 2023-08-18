@@ -220,6 +220,61 @@
             "lancamento": false,
             "categoria": "ano2010",
             "promocao": false
+        },
+
+        {
+            "id": 15,
+            "artista": "Spiritbox",
+            "nomeDaCamiseta": "Holly Roller",
+            "camisetaImg": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/Blues%20Pills%20(2014).jpeg?raw=true",
+            "price": "R$ 180,00",
+            "lancamento": false,
+            "categoria": "camiseta",
+            "promocao": false
+        },
+
+        {
+            "id": 16,
+            "artista": "Larkin Poe",
+            "nomeDaCamiseta": "Self Made Man",
+            "camisetaImg": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/Blues%20Pills%20(2014).jpeg?raw=true",
+            "price": "R$ 150,00",
+            "lancamento": false,
+            "categoria": "camiseta",
+            "promocao": false
+        },
+
+        {
+            "id": 17,
+            "artista": "Jinjer",
+            "nomeDaCamiseta": "Peace to Ukraine",
+            "camisetaImg": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/Blues%20Pills%20(2014).jpeg?raw=true",
+            "price": "R$ 150,00",
+            "lancamento": false,
+            "categoria": "camiseta",
+            "promocao": false
+        },
+
+        {
+            "id": 18,
+            "artista": "The Warning",
+            "nomeDaCamiseta": "The Warning",
+            "camisetaImg": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/Blues%20Pills%20(2014).jpeg?raw=true",
+            "price": "R$ 130,00",
+            "lancamento": false,
+            "categoria": "camiseta",
+            "promocao": false
+        },
+
+        {
+            "id": 19,
+            "artista": "Blues Pills",
+            "nomeDaCamiseta": "Lady in Gold",
+            "camisetaImg": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/Blues%20Pills%20(2014).jpeg?raw=true",
+            "price": "R$ 80,00",
+            "lancamento": false,
+            "categoria": "camiseta",
+            "promocao": false
         }
 
     ]
