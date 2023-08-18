@@ -228,9 +228,7 @@
             "nomeDaCamiseta": "Holly Roller",
             "camisetaImg": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/Spiritbox-Holly_Roller.jpeg?raw=true",
             "price": "R$ 180,00",
-            "lancamento": false,
-            "categoria": "camiseta",
-            "promocao": false
+            "categoria": "camiseta"
         },
 
         {
@@ -239,9 +237,7 @@
             "nomeDaCamiseta": "Self Made Man",
             "camisetaImg": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/larkin-poe-self-made-man.jpg?raw=true",
             "price": "R$ 150,00",
-            "lancamento": false,
-            "categoria": "camiseta",
-            "promocao": false
+            "categoria": "camiseta"
         },
 
         {
@@ -250,9 +246,7 @@
             "nomeDaCamiseta": "Peace to Ukraine",
             "camisetaImg": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/jinjer-peace-to-ukraine.jpg?raw=true",
             "price": "R$ 150,00",
-            "lancamento": false,
-            "categoria": "camiseta",
-            "promocao": false
+            "categoria": "camiseta"
         },
 
         {
@@ -261,9 +255,7 @@
             "nomeDaCamiseta": "The Warning",
             "camisetaImg": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/the-warning-the%20warning.jpg?raw=true",
             "price": "R$ 130,00",
-            "lancamento": false,
-            "categoria": "camiseta",
-            "promocao": false
+            "categoria": "camiseta"
         },
 
         {
@@ -272,9 +264,7 @@
             "nomeDaCamiseta": "Lady in Gold",
             "camisetaImg": "https://github.com/rafaareis/json-db-modulo-14/blob/main/capasDeCds/blues-pills-lady-in-gold.jpg?raw=true",
             "price": "R$ 80,00",
-            "lancamento": false,
-            "categoria": "camiseta",
-            "promocao": false
+            "categoria": "camiseta"
         }
 
     ]
